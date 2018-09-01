@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.html": "html"
+    },
+    // Enable/Disable ActiveFileInStatusBar
+    "ActiveFileInStatusBar.enable": true,
+    // Show fullpath or relative path in status bar.
+    "ActiveFileInStatusBar.fullpath": true,
+    // Reveal the active file in the file system.
+    "ActiveFileInStatusBar.revealFile": true,
+    // "ActiveFileInStatusBar.color": "grey",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "eslint.enable": false
+}
